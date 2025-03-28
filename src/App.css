@@ -15,28 +15,4 @@ li{
     list-style: none;
 }
 
-.opcoes{
-    display: flex;;
-}
 
-.opcao{
-    min-width: 120px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    height: 100%;
-    padding: 0 5px;
-    cursor: pointer;
-    font-size: 16px;
-}
-
-.icones{
-    display: flex;
-    align-items: center;;
-}
-
-.icone{
-    margin-right: 40px;
-    width: 25px;
-}
